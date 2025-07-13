@@ -75,7 +75,7 @@ I am a **Fullstack Web Developer** and **DevOps Engineer** passionate about crea
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=programmermunna&show_icons=true&theme=tokyonight" alt="Munna's GitHub stats" />  
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=programmermunna&show_icons=true&theme=tokyonight" alt="Munna's GitHub stats" />   -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=programmermunna&theme=tokyonight" alt="Munna's GitHub streak" />
 </p>
 
