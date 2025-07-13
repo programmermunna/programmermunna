@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Munna
+# 👋 Hi there, I'm Munna Hasan
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/programmermunna/programmermunna/main/banner.png" alt="Munna | Fullstack Web Developer & DevOps Engineer" />
