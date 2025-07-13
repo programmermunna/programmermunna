@@ -1,7 +1,7 @@
 # 👋 Hi there, I'm Munna
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/73132674?v=4" width="150" alt="Munna's profile picture" />
+  <img src="https://raw.githubusercontent.com/programmermunna/programmermunna/main/assets/banner.png" alt="Munna | Fullstack Web Developer & DevOps Engineer" />
 </p>
 
 ## 🚀 About Me
@@ -29,6 +29,7 @@ I am a **Fullstack Web Developer** and **DevOps Engineer** passionate about crea
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
